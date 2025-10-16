@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content:center;
+    font-size: 40px;
+    border: 6px solid #00aeff;
+    border-radius: 15px;
+}
+
+body {
+    background-image: url('./images/luca-bravo-unsplash.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color:#343434; 
+}
+
+p {
+    background: rgba(255, 255, 255, 0.636);
+    display: inline-block;
+
+}   
